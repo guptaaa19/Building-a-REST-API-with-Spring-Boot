@@ -1,4 +1,4 @@
-package example.cashcard;
+package com.example.cashcard;
 
 
 import org.assertj.core.util.Arrays;
